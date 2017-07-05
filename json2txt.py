@@ -100,6 +100,8 @@ fName = raw_input("What is your the name of your JSON file?\r\n"
 fPath = os.getcwd()  # Returns the path of the current working directory
 outPath = fPath+"/OUTPUT" # Declares the path of the output directory
 
+if not os.path.isdir(outPath):
+    os.mkdir(outPath)
 
 # Checks if the file exists (and is a .json file.)
 if os.path.isfile(fPath+"/"+fName+".json"):
