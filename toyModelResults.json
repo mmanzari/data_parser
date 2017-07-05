@@ -1,0 +1,92 @@
+{
+  "normalCost": 112.0,
+  "overtimeCost": 99.0,
+  "thirdPartyCost": 0.0,
+  "unassignedCost": 250.0,
+  "assignments": [
+    {
+      "resourceId": "Jeremy",
+      "taskId": "T1",
+      "dayOfWeek": "Mon",
+      "isOvertimeAssignment": false,
+      "isThirdPartyAssignment": false
+    },
+    {
+      "resourceId": "Bill",
+      "taskId": "T1",
+      "dayOfWeek": "Tues",
+      "isOvertimeAssignment": false,
+      "isThirdPartyAssignment": false
+    },
+    {
+      "resourceId": "Martha",
+      "taskId": "T1",
+      "dayOfWeek": "Wed",
+      "isOvertimeAssignment": false,
+      "isThirdPartyAssignment": false
+    },
+    {
+      "resourceId": "Bill",
+      "taskId": "T1",
+      "dayOfWeek": "Thurs",
+      "isOvertimeAssignment": true,
+      "isThirdPartyAssignment": false
+    },
+    {
+      "resourceId": "Bill",
+      "taskId": "T1",
+      "dayOfWeek": "Fri",
+      "isOvertimeAssignment": true,
+      "isThirdPartyAssignment": false
+    },
+    {
+      "resourceId": "Bill",
+      "taskId": "T2",
+      "dayOfWeek": "Sat",
+      "isOvertimeAssignment": false,
+      "isThirdPartyAssignment": false
+    },
+    {
+      "resourceId": "Bill",
+      "taskId": "T2",
+      "dayOfWeek": "Sun",
+      "isOvertimeAssignment": false,
+      "isThirdPartyAssignment": false
+    },
+    {
+      "resourceId": "Bill",
+      "taskId": "T3",
+      "dayOfWeek": "Mon",
+      "isOvertimeAssignment": false,
+      "isThirdPartyAssignment": false
+    },
+    {
+      "resourceId": "Jeremy",
+      "taskId": "T3",
+      "dayOfWeek": "Tues",
+      "isOvertimeAssignment": true,
+      "isThirdPartyAssignment": false
+    },
+    {
+      "resourceId": "Jeremy",
+      "taskId": "T3",
+      "dayOfWeek": "Wed",
+      "isOvertimeAssignment": true,
+      "isThirdPartyAssignment": false
+    },
+    {
+      "resourceId": "Martha",
+      "taskId": "T3",
+      "dayOfWeek": "Thurs",
+      "isOvertimeAssignment": false,
+      "isThirdPartyAssignment": false
+    },
+    {
+      "resourceId": "Jeremy",
+      "taskId": "T3",
+      "dayOfWeek": "Fri",
+      "isOvertimeAssignment": true,
+      "isThirdPartyAssignment": false
+    }
+  ]
+}
