@@ -1,0 +1,29 @@
+{
+  "Offset": 0,
+  "Total": 2,
+  "Results": [
+    {
+      "Id": "CHOPS",
+      "CompanyName": "Chop-suey Chinese",
+      "ContactName": "Yang Wang",
+      "ContactTitle": "Owner",
+      "Address": "Hauptstr. 29",
+      "City": "Bern",
+      "PostalCode": "3012",
+      "Country": "Switzerland",
+      "Phone": "0452-076545"
+    },
+    {
+      "Id": "FRANK",
+      "CompanyName": "Frankenversand",
+      "ContactName": "Peter Franken",
+      "ContactTitle": "Marketing Manager",
+      "Address": "Berliner Platz 43",
+      "City": "Munchen",
+      "PostalCode": "80805",
+      "Country": "Germany",
+      "Phone": "089-0877310",
+      "Fax": "089-0877451"
+    }
+  ]
+}
