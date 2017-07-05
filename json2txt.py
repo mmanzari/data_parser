@@ -94,7 +94,7 @@ def data2txt(d):
 # Asks for the JSON file to be imported and re-formatted
 fName = raw_input("What is your the name of your JSON file?\r\n"
                   "Please do not include the file format extension.\r\n"
-                  "Also, ensure that the data file is located in the current working directory.")
+                  "Also, ensure that the data file is located in the current working directory.\r\n")
 
 
 fPath = os.getcwd()  # Returns the path of the current working directory
